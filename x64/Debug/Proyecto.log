@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\Proyecto\MyForm.h(366,29): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\Proyecto\MyForm.h(369,19): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\Proyecto\MyForm.h(392,31): warning C4244: '=': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\Proyecto\MyForm.h(425,23): warning C4244: '=': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\Proyecto\MyForm.h(426,23): warning C4244: '=': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Proyecto.vcxproj -> C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\x64\Debug\Proyecto.exe

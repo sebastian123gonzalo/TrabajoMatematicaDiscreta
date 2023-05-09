@@ -1,0 +1,4 @@
+C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\Proyecto\x64\Debug\Proyecto.vcxproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\Proyecto\x64\Debug\Proyecto.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\Proyecto\x64\Debug\Proyecto.MyForm.resources
+C:\Users\pc\Desktop\MatemaDiscretaGNPS\ProyectoFinal\Proyecto\Proyecto\x64\Debug\Proyecto.vcxproj.GenerateResource.cache
